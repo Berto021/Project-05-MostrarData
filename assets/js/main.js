@@ -25,7 +25,7 @@ function dia(){
   const diaSemana = data.getDay();
   if (diaSemana == 1){
       return 'Segunda-feira'
-  }else if (diaSemana == 1){
+  }else if (diaSemana == 2){
       return 'Terça-feira'
   }else if (diaSemana == 3){
       return 'Quarta-feira'
